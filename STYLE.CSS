@@ -1,0 +1,112 @@
+body{
+    font-family:Poppins;
+    background-image: url("assets/sfondo.png");
+}
+
+body{
+font-family: Poppins, "Helvetica Neue,sans serif";
+background-image: url("assets/sfondo.png");
+background-position: center center;
+line-height: 1.5;
+}
+
+header{
+    background: blue;
+    background: linear-gradient( blue);
+    text-align: center;
+    text-transform: uppercase;
+    font-weight: bold;
+    color: black;
+    box-shadow: 0  3px 3px black;
+}
+
+header div img{
+    margin-bottom: 30px;
+}
+
+header nav ul{
+    margin: 0;
+}
+
+main{
+    background-color: white;
+    padding: 2em;
+}
+
+.rossi{
+    color: white;
+}
+
+main ul,ol{
+
+    margin-left: 2em;
+}
+
+strong{
+    margin-left: purple;
+    font-weight: bold;
+}
+
+code{
+    background-color: grey;
+    border: 1px solid grey;
+
+}
+
+table{
+    margin-bottom: 2em;
+}
+
+caption{
+    font-weight: bold;
+    
+}
+
+thead tr{
+    background-color: skyblue;
+    color: white;
+}
+
+th, td{
+    padding: 10px 12px;
+    vertical-align: bottom;
+    text-align: center;
+}
+
+footer{
+    background:skyblue;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
